@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Matthias Geisler]]></title>
         <description><![CDATA[Matthias Geisler]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matthias-geisler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 21:29:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 21:31:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matthias-geisler/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MacBook]]></title>
+            <description><![CDATA[<article><h1>MacBook</h1><p>The MacBook (Retina, 12-inch, Early 2015) is such a hardware engineering masterpiece... truly love the overall experience so far.</p></article>]]></description>
+            <link>https://thegrid.ai/matthias-geisler/macbook/index.html</link>
+            <guid isPermaLink="false">f7c1744b-93eb-4cfd-b43f-e07113e82d82</guid>
+            <pubDate>Sat, 12 Dec 2015 21:31:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/matthias-geisler/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">e3eb01b6-1597-495d-a0fb-8fe8332705c6</guid>
             <pubDate>Sat, 12 Dec 2015 21:28:50 GMT</pubDate>
         </item>
