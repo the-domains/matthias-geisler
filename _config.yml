@@ -1,0 +1,28 @@
+name: Matthias Geisler
+favicon: null
+layout_spectrum: 0.5103925142902881
+typography_spectrum: 0.5455300079192966
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3738665415439755
+  lightness: 0.6153243952430785
+  saturation: 0.6760938160587102
+  rhythmicContrast: 0.2988231584895402
+purpose: []
