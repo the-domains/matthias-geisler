@@ -4,7 +4,7 @@
         <description><![CDATA[Matthias Life]]></description>
         <link>https://thegrid.ai/matthias-geisler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 21:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 21:31:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/matthias-geisler/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Do more w/ less for building blazing fast apps on mobile]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/matthias-geisler/macbook/index.html</link>
             <guid isPermaLink="false">f7c1744b-93eb-4cfd-b43f-e07113e82d82</guid>
             <pubDate>Sat, 12 Dec 2015 21:31:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/matthias-geisler/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">e3eb01b6-1597-495d-a0fb-8fe8332705c6</guid>
-            <pubDate>Sat, 12 Dec 2015 21:28:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
