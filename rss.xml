@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Matthias Life]]></title>
-        <description><![CDATA[Matthias Life]]></description>
+        <title><![CDATA[Matthias' Life]]></title>
+        <description><![CDATA[Matthias' Life]]></description>
         <link>https://thegrid.ai/matthias-geisler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 21:53:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 21:57:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/matthias-geisler/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MacBook]]></title>
             <description><![CDATA[<article><h1>MacBook</h1><p>The MacBook (Retina, 12-inch, Early 2015) is such a hardware engineering masterpiece... truly love the overall experience so far.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20071d1a04ffb885bbecd2cf27178e7e32d8a7b8.png"></article>]]></description>
             <link>https://thegrid.ai/matthias-geisler/macbook/index.html</link>
             <guid isPermaLink="false">f7c1744b-93eb-4cfd-b43f-e07113e82d82</guid>
-            <pubDate>Wed, 23 Dec 2015 21:51:41 GMT</pubDate>
+            <pubDate>Wed, 23 Dec 2015 21:57:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Do more w/ less for building blazing fast apps on mobile]]></title>
