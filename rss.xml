@@ -4,7 +4,7 @@
         <description><![CDATA[Matthias' Life]]></description>
         <link>http://matthias.geisler.life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 20:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Dec 2015 21:21:50 GMT</lastBuildDate>
         <atom:link href="http://matthias.geisler.life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MacBook]]></title>
@@ -23,9 +23,9 @@
         <item>
             <title><![CDATA[Sooo true and to the point :-)]]></title>
             <description><![CDATA[<h1>Sooo true and to the point :-)</h1>]]></description>
-            <link>http://matthias.geisler.life/sooo-true-and-to-the-point-/index.html</link>
+            <link>urn:uuid:99726e74-8ea0-45e5-ad8a-0d2b5c6567d0</link>
             <guid isPermaLink="false">8902b5d7-a3bc-476b-9097-d099d4cb5290</guid>
-            <pubDate>Sun, 13 Dec 2015 22:58:08 GMT</pubDate>
+            <pubDate>Fri, 25 Dec 2015 21:21:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
