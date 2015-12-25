@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:99726e74-8ea0-45e5-ad8a-0d2b5c6567d0'
 author: []
-datePublished: '2015-12-13T22:58:08.403Z'
+datePublished: '2015-12-25T21:21:41.745Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: 'Sooo true and to the point :-)'
-dateModified: '2015-12-13T22:57:36.734Z'
+dateModified: '2015-12-25T21:21:22.964Z'
 sourcePath: _posts/2015-12-13-sooo-true-and-to-the-point-.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: sooo-true-and-to-the-point-/index.html
+inLanguage: null
+starred: false
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
