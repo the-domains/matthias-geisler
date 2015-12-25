@@ -1,6 +1,6 @@
 name: Matthias Geisler
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.03033
 typography_spectrum: 0.25342
 title: "Matthias' Life"
 cta:
@@ -23,7 +23,7 @@ color:
     - '#3E363F'
     - '#DD403A'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
