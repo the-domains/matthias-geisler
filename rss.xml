@@ -4,8 +4,15 @@
         <description><![CDATA[Matthias' Life]]></description>
         <link>http://matthias.geisler.life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 10:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 15:01:25 GMT</lastBuildDate>
         <atom:link href="http://matthias.geisler.life/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[That's what Machine Learning looks like - still, sometimes]]></title>
+            <description><![CDATA[<article><h1>That's what Machine Learning looks like - still, sometimes</h1><p>Machine learning. #32c3 #gängeviertel by Dr. Thompson magic industries ..</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b10e3c110e54b888e331490d37ad17b3b1b974aa.jpg"></article>]]></description>
+            <link>https://twitter.com/phaiidros/status/680888056409370624</link>
+            <guid isPermaLink="false">d0085a70-f9bc-4951-bfce-f5b387b534d3</guid>
+            <pubDate>Tue, 29 Dec 2015 15:00:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Do more w/ less for building blazing fast apps on mobile]]></title>
             <description><![CDATA[<article><h1>Do more w/ less for building blazing fast apps on mobile</h1><p>Fast, light, and performant mobile web apps are possible even on mediocre devices. My 18 minute talk explains: http://www.thedotpost.com/2015/12/henrik-joreteg-pocket-sized-javascript#autoplay ...</p></article>]]></description>
