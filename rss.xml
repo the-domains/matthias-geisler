@@ -4,8 +4,15 @@
         <description><![CDATA[Matthias' Life]]></description>
         <link>http://matthias.geisler.life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 15:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2016 10:50:48 GMT</lastBuildDate>
         <atom:link href="http://matthias.geisler.life/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Happy New Year! ]]></title>
+            <description><![CDATA[<article><h1>Happy New Year! </h1><p>Happy New Year! <3</p></article>]]></description>
+            <link>http://matthias.geisler.life/happy-new-year/index.html</link>
+            <guid isPermaLink="false">d344ba97-0e73-44e7-9099-303834d7b6e4</guid>
+            <pubDate>Fri, 01 Jan 2016 10:50:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[That's what Machine Learning looks like - still, sometimes]]></title>
             <description><![CDATA[<article><h1>That's what Machine Learning looks like - still, sometimes</h1><p>Machine learning. #32c3 #gängeviertel by Dr. Thompson magic industries ..</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b10e3c110e54b888e331490d37ad17b3b1b974aa.jpg"></article>]]></description>
