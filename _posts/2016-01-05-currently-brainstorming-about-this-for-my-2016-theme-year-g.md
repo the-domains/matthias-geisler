@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T21:14:11.598Z'
-dateModified: '2016-01-05T21:14:02.589Z'
+datePublished: '2016-01-05T21:18:52.210Z'
+dateModified: '2016-01-05T21:18:45.783Z'
 author: []
-title: "Currently brainstorming about this for my year's theme/ top goals"
+title: 'Currently brainstorming about what todo w/ my unused domains - this is definitively on my 2016 Theme, i.e. amongst my 2016 top goals'
 sourcePath: _posts/2016-01-05-currently-brainstorming-about-this-for-my-2016-theme-year-g.md
 published: true
 authors: []
@@ -23,5 +23,5 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Currently brainstorming about this for my year's theme/ top goals
+# Currently brainstorming about what todo w/ my unused domains - this is definitively on my 2016 Theme, i.e. amongst my 2016 top goals
 ![Do something with your unused domains in 2016 https://medium.com/surge-sh/make-something-of-your-ridiculous-domains-bb26fadeb93c ...](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4130649c1805ebd775d70005cc74f61148821186.png)
