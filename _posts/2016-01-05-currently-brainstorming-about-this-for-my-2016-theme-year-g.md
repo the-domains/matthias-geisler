@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:d074eb0f-e2b3-4bb7-bcbb-bbc76c5b7d85'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-01-05T21:01:34.066Z'
+dateModified: '2016-01-05T21:00:38.929Z'
 author: []
-datePublished: '2016-01-05T20:54:22.361Z'
-publisher:
-  domain: ''
-  name: ''
 title: Currently brainstorming about this for my 2016 theme/ year goals
-dateModified: '2016-01-05T20:53:59.244Z'
 sourcePath: _posts/2016-01-05-currently-brainstorming-about-this-for-my-2016-theme-year-g.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: currently-brainstorming-about-this-for-my-2016-theme-year-g/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
