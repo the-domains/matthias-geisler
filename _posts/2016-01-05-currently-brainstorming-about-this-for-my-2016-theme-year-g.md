@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T21:05:08.178Z'
-dateModified: '2016-01-05T21:05:02.612Z'
+datePublished: '2016-01-05T21:08:31.690Z'
+dateModified: '2016-01-05T21:08:16.335Z'
 author: []
-title: "Currently brainstorming about this for my year's theme, a.k.a top goals"
+title: "Currently brainstorming about this for my year's theme/ top goals"
 sourcePath: _posts/2016-01-05-currently-brainstorming-about-this-for-my-2016-theme-year-g.md
 published: true
 authors: []
@@ -23,5 +23,5 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Currently brainstorming about this for my year's theme, a.k.a top goals
-![Do something with your unused domains in 2016 https&colon;&sol;&sol;medium&period;com&sol;surge-sh&sol;make-something-of-your-ridiculous-domains-bb26fadeb93c &period;&period;&period;](https://pbs.twimg.com/media/CXfjqv6WEAEiOfk.png:large)
+# Currently brainstorming about this for my year's theme/ top goals
+![Do something with your unused domains in 2016 https://medium.com/surge-sh/make-something-of-your-ridiculous-domains-bb26fadeb93c ...](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4130649c1805ebd775d70005cc74f61148821186.png)
