@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=7LcUOEP7Brc'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'The Internet was made for everyone but is being hijacked by big corporations that are turning people into products without their knowledge or consent. Check out what we did to expose the hidden business of the Internet on a busy street in Hamburg, Germany.'
-datePublished: '2016-02-01T16:25:28.445Z'
-dateModified: '2016-02-01T16:25:16.545Z'
+datePublished: '2016-02-01T20:18:38.123Z'
+dateModified: '2016-02-01T20:18:31.975Z'
 author:
   - name: Mozilla Firefox
     url: 'https://www.youtube.com/user/firefoxchannel'
