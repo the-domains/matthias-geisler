@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=7LcUOEP7Brc'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'The Internet was made for everyone but is being hijacked by big corporations that are turning people into products without their knowledge or consent. Check out what we did to expose the hidden business of the Internet on a busy street in Hamburg, Germany.'
-datePublished: '2016-02-01T20:18:38.123Z'
-dateModified: '2016-02-01T20:18:31.975Z'
+datePublished: '2016-02-01T20:23:42.582Z'
+dateModified: '2016-02-01T20:23:31.511Z'
 author:
   - name: Mozilla Firefox
     url: 'https://www.youtube.com/user/firefoxchannel'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: The Hidden Business of the Internet
+sourcePath: _posts/2016-02-01-the-hidden-business-of-the-internet.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-02-01-the-hidden-business-of-the-internet.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
