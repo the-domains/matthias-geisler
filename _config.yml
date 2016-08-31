@@ -1,20 +1,4 @@
-name: Matthias Geisler
-favicon: null
-layout_spectrum: 0.74295
 typography_spectrum: 0.25342
-title: "Matthias' Life"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -26,4 +10,20 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74295
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Matthias Geisler
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Matthias' Life
 purpose: []
